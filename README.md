@@ -1,1 +1,1 @@
-It's a example. I'm learning git!
+Everything is just an example. I'm learning git!
